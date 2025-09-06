@@ -1,4 +1,4 @@
-package datatypes;
+package java_codes;
 
 public class Non_primitive_datatypes {
 
