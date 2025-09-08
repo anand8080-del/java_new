@@ -4,6 +4,7 @@ public class Datatypes {
 public static void main(String args[])
 {
 	byte a=127;
+	//--PRIMITIVE DATATYPES--
 	//the formula of range calculation is -2^n-1 to 2^n-1-1
 	//the range of byte is -128 to 127
 	System.out.println(a);

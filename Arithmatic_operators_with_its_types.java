@@ -62,6 +62,30 @@ public class Arithmatic_operators_with_its_types {
 		System.out.println(105.11-104.11+105.11+104.11+105.11);
 		System.out.println(pay);
 		
+           //REMAINING ARITHMATIC OPERATORS
+	         //  +,-,% OR /
+	// these operator follows BODMAS rule
+	// % it gives a reminder between integers
+		
+		
+		int a=10;
+	      
+		int b =20;
+		
+		
+		System.out.println(b%a);
+		// when an divison properly then its give output 0
+		System.out.println((1+11)-15/5);
+		System.out.println(10%3);
+		System.out.println(10%2);
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
