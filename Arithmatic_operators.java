@@ -1,6 +1,6 @@
 package java_codes;
 
-public class Arithmatic_operators_with_its_types {
+public class Arithmatic_operators {
 	public static void main(String[] args) {
 		/*there are two types of arithmetic operators 
 		//1) increment operators
