@@ -8,7 +8,7 @@ public class Examples_for_loop {
                                               ******
                                               ******
     
-    */
+    
 		
 		for (int row=1;row<=4;row++)
 		{
@@ -21,11 +21,47 @@ public class Examples_for_loop {
 		{
 			System.out.println("heyy");
 		}
-	
+	*/
 		
+		/**2)EXAMPLE:
+		int sum=0;
+		for (int num=1; num<=50;num++)
+		{
+			//System.out.println(num);
+		     //sum=sum+num;
+			   sum+=num;
+			System.out.println(sum);
+			System.out.println("*****");
+		//Q2) PRINT EVEN NUMBERS BETWEEN 1 TO 100?
+		}
+		*/	
+		int sum=0;
+		for (int num=1;num<=5;num++)
+		{
+			if (num%2==0)
+			{
+				sum=sum+num;
+				//sum+=num
+				System.out.println(num);
+				
+				//System.out.println(sum); 
+			}
+			
+			
+		}
+		    System.out.println(sum);
+			
+			
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		    
+		}
 		
-	}
-	
-	
+      }
 
-}

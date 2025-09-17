@@ -10,6 +10,8 @@ public class For_loop {
 		    //-condition
 		   // -operation on variables
 		    //#ICBO 
+		// iterations in for loop: it knows the range.
+		//using loops again and again operations are possible 
 		    for (int i=10;i<20;i++)
 		    {
 		    	System.out.println("hii"); 
